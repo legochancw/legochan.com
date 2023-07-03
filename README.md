@@ -1,1 +1,2 @@
 # legochan.com
+# legochan.com
